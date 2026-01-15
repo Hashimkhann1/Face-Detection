@@ -1,4 +1,4 @@
-Face Detection
+**Face Detection**
 
 A simple Face Detection App in Flutter using the camera and google_mlkit_face_detection packages.
 
